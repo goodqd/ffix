@@ -1,0 +1,16 @@
+{
+  "name": "ffix",
+  "version": "2.2.9",
+  "description": "Batch add file prefix",
+  "main": "index.js",
+  "bin": "bin/ffix",
+  "dependencies": {
+    "yargs": "^11.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
